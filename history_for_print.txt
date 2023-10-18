@@ -1,0 +1,169 @@
+    1  pwd
+    2  mkdir Projects
+    3  mkdir Projects/SindriaAcademy
+    4  mkdir .ssh
+    5  cd .ssh
+    6  ls -la
+    7  rm known_hosts
+    8  rm known_hosts.old 
+    9  ssh-keygen
+   10  ls -la
+   11  cp skinniNR\@github.com skinniNR\@github.com.pem
+   12  cat skinniNR\@github.com.pub 
+   13  touch config
+   14  vim config 
+   15  ls
+   16  cd ..
+   17  cd Projects/SindriaAcademy/
+   18  ls
+   19  git clone git@github.com:SindriaAcademy/gestionale-magazzino.git
+   20  cd gestionale-magazzino/
+   21  clear
+   22  ls -la
+   23  git branch
+   24  touch giovannitacchini.txt
+   25  git status
+   26  nano giovannitacchini.txt 
+   27  git status
+   28  git add .
+   29  git status
+   30  git commit -m "aggiunto file nuovo"
+   31  git config --global user.name skinniNR
+   32  git config --global user.email "gio4tacco@gmail.com"
+   33  git config --global core.editor vim
+   34  git commit -m "aggiunto file nuovo"
+   35  git config --list
+   36  history
+   37  git status
+   38  gitbranch -r
+   39  git branch -r
+   40  git branch
+   41  git branch help
+   42  help git branch
+   43  info brancj
+   44  info branch
+   45  man -k branch
+   46  git branch -v
+   47  ls -la
+   48  git push origin master 
+   49  git push origin master 
+   50  git fetch --all
+   51  git pull origin master
+   52  sudo nano ~/.bashrc
+   53  nano ~/.bashrc
+   54  su -
+   55  apt install sudo
+   56  install sudo
+   57  sudo vi ~/.bashrc~
+   58  sudo su -
+   59  sudo apt install sudo
+   60  apt install sudo
+   61  usermod -aG sudo skinni
+   62  pacman -S sudo
+   63  git config pull.robose true
+   64  ls
+   65  history
+   66  ls -lah
+   67  nano francescoumbaca.txt 
+   68  git add
+   69  ls
+   70  git config pull.robose true
+   71  ls
+   72  git push origin master 
+   73  ls
+   74  nano francescoumbaca.txt 
+   75  get fetch --all
+   76  get fetch -all
+   77  git fetch --all
+   78  ls
+   79  nano francescoumbaca.txt 
+   80  nano francescoumbaca.txt 
+   81  git status
+   82  git commit -a
+   83  ls
+   84  nano matteodanelli.txt 
+   85  git commit -m "modifica"
+   86  git commit
+   87  git fetch --all
+   88  ls
+   89  git pull origin master
+   90  ls
+   91  ls -la
+   92  get add .
+   93  git add .
+   94  git commit .m
+   95  git commit -m
+   96  history
+   97  git commit -m "aggiunto file"
+   98  nano prova1
+   99  ls
+  100  git commit -m "aggiunto file"
+  101  git config --global core.editor nano
+  102  git config --list
+  103  git branch -r
+  104  nano giovannitacchini.txt
+  105  ls
+  106  git pull origin master
+  107  ls
+  108  nano christianmelini.txt 
+  109  git commit -m "aggiunto file"
+  110  git config --list
+  111  git branch -r
+  112  history
+  113  git push origin master
+  114  git fetch --all
+  115  ls
+  116  git pull origin master
+  117  ls
+  118  nano christianmelini.txt 
+  119  git fetch --all
+  120  commit -m "nnso"
+  121  git commit -m "nnso"
+  122  git fetch --all
+  123  ls
+  124  git fetch --all
+  125  git config pull origin master
+  126  git pull origin master
+  127  git config pull.robose ture
+  128  git config pull.robose true
+  129  ls
+  130  git status
+  131  git add .
+  132  git commit -m update
+  133  git push origin master 
+  134  git fetch --all
+  135  git pull origin 
+  136  git pull origin master
+  137  vim christianmelini.txt 
+  138  vim francescoumbaca.txt 
+  139  git status
+  140  git add .
+  141  git commit -m update
+  142  git push origin master 
+  143  clear
+  144  git push origin master 
+  145  git pull origin master 
+  146  ls
+  147  ls -la
+  148  history
+  149  fetch
+  150  git fetch
+  151  ls
+  152  nano giovannitacchini.txt 
+  153  git push origin master
+  154  git fetch --all
+  155  git pull origin master
+  156  vi giovannitacchini.txt 
+  157  ls
+  158  nano giovannitacchini.txt 
+  159  git add .
+  160  git commit -m "modifica"
+  161  git commit -m update
+  162  git push origin master
+  163  git getch --all
+  164  git push origin master
+  165  git pull origin master
+  166  ls
+  167  gio
+  168  nano giovannitacchini.txt 
+  169  history > history_for_print.txt
