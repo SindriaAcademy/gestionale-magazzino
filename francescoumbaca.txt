@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -14,3 +15,6 @@ e ognun si honsiderasse suo fratello
 ci sarebbe meno pensieri e meno pene
 e il mondo ne sarebbe assai più bello
 Cit Thommaso Sanpietrino
+=======
+AGGIORNAMENTO DEL 2023 (ANO SOLARE)
+>>>>>>> 93b1262e1ac42d9f01033851ce8b6149429da47c
