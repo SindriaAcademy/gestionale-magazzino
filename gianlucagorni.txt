@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 mi piacciono i piseli
 no dai 
 si invece
 
+=======
+ciao ciao i gatti sono coccolosi
+>>>>>>> a0d3f54c06ab09db00c358461cce7b32a5faf347
