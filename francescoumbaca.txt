@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hello World
 dsadadada Adoro Greta Tuberina
 =======
@@ -6,3 +7,5 @@ dsadadada Adoro Greta Tuberina
 NULLA DI TUTTO CIò è REALE!!!
 è reale se scegli che lo sia  :3
 
+=======
+>>>>>>> df80898636c848e6b22804bdd9ab5ad684bf0e50
