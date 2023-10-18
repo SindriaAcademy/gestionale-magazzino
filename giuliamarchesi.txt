@@ -1,2 +1,6 @@
 ciao 
+<<<<<<< HEAD
 Hi Girly Pop okuurrrrrrrrrrrr Slay the house down boot!
+=======
+11.02
+>>>>>>> d80fb1f9ed6454a386d7c13d468b19ea1a4d87b7
