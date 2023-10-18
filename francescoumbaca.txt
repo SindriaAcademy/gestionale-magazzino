@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 
@@ -18,3 +19,12 @@ Cit Thommaso Sanpietrino
 =======
 AGGIORNAMENTO DEL 2023 (ANO SOLARE)
 >>>>>>> 93b1262e1ac42d9f01033851ce8b6149429da47c
+=======
+AGGIORNAMENTO DEL 2023 (ANNO SOLARE)
+<<<<<<< HEAD
+>>>>>>> ff27d7c783d5b07221f1fdeb3ea0e2d66bdc2b45
+
+ciao a tutti come va? spero tutto bene (UPDATE 12.45 - F )
+=======
+>>>>>>> 82998a5ab66e6ea5bdc732f50c1e56fa31210bc3
+>>>>>>> 0979f863b96e0dc1b39a4aabbaf139b450d1f8b6
